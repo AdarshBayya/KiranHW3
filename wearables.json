@@ -1,0 +1,3043 @@
+[
+  {
+    "Brand": "TCL",
+    "Model": "MoveTime Family Watch MT43A",
+    "Water Resistant": "IP67",
+    "RAM": "512MB",
+    "Processor Name": "Snapdragon Wear 2500",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Charge 4",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Honor",
+    "Model": "A2 Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Puma",
+    "Model": "Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512MB",
+    "Processor Name": "Snapdragon Wear 3100",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Puma",
+    "Model": "Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512MB",
+    "Processor Name": "Snapdragon Wear 3100",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Puma",
+    "Model": "Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512MB",
+    "Processor Name": "Snapdragon Wear 3100",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Marq Driver",
+    "Water Resistant": "Yes",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Huami",
+    "Model": "Amazfit X",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Mi",
+    "Model": "Smart Band 4",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Oppo",
+    "Model": "Band",
+    "Water Resistant": "5ATM",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Realme",
+    "Model": "Watch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Smartron",
+    "Model": "t.band Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Fenix 6S",
+    "Water Resistant": "Yes",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Fenix 6S",
+    "Water Resistant": "Yes",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Xiaomi",
+    "Model": "Mi Watch Color Keith Haring Edition",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Versa 2 Special Edition",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Xiaomi",
+    "Model": "Mi Watch (2020)",
+    "Water Resistant": "5 ATM",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "Bip Lite",
+    "Number of Buttons": "1"
+  },
+  {
+    "Brand": "Honor",
+    "Model": "Watch ES",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Fenix 6 Pro Solar",
+    "Water Resistant": "10 ATM",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Crewmaster Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "Pop",
+    "Water Resistant": "5 ATM",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Vivo",
+    "Model": "Watch (46mm)",
+    "Water Resistant": "5 ATM",
+    "RAM": "2GB",
+    "Processor Name": "ST miniature main control chip + Apollo ultra-low power coprocessor",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Watch 4G (46mm)",
+    "Water Resistant": "5ATM, MIL-STD-810G",
+    "RAM": "1.5GB",
+    "Display Type": "Super AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Watch 3 4G (45mm)",
+    "Water Resistant": "5ATM + IP68",
+    "RAM": "1MB",
+    "Processor Name": "Exynos 9110",
+    "Display Type": "Super AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Xiaomi",
+    "Model": "Redmi Band",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 3 GPS + Cellular Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S3 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 3 GPS + Cellular Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S3 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 3 GPS + Cellular Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S3 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 3 GPS + Cellular Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S3 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 3 GPS + Cellular Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S3 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 3 GPS + Cellular Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S3 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 3 GPS + Cellular Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S3 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 3 GPS + Cellular Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S3 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 3 GPS + Cellular Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S3 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 3 GPS + Cellular Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S3 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Xiaomi",
+    "Model": "Mi Watch Color Sports Edition",
+    "Water Resistant": "5 ATM",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Watch GT Elegant Edition",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Honor",
+    "Model": "Watch Magic 2 (42mm)",
+    "Water Resistant": "Yes",
+    "Processor Name": "HiSilicon Kirin A1",
+    "Display Type": "AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Honor",
+    "Model": "Watch Magic 2 (42mm)",
+    "Water Resistant": "Yes",
+    "Processor Name": "HiSilicon Kirin A1",
+    "Display Type": "AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Watch Fit",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Vivosmart HR Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Vivosmart HR Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Vivosmart HR Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Infinix",
+    "Model": "Xband 3 Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "LCD"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 5 GPS",
+    "Water Resistant": "Yes",
+    "Processor Name": "S5 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 5 GPS",
+    "Water Resistant": "Yes",
+    "Processor Name": "S5 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "GTR 47mm Titanium",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "GOQii",
+    "Model": "Smart Band",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Honor",
+    "Model": "Watch Magic 2 (46mm)",
+    "Water Resistant": "Yes",
+    "Processor Name": "HiSilicon Kirin A1",
+    "Display Type": "AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Huami",
+    "Model": "Zepp Z",
+    "Water Resistant": "5ATM",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "3",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Watch GT 2 (42mm)",
+    "Water Resistant": "5ATM",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Mi",
+    "Model": "Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "Stratos Smartwatch",
+    "Water Resistant": "Yes",
+    "Number of Buttons": "3",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Watch 4G (42mm)",
+    "Water Resistant": "5ATM, MIL-STD-810G",
+    "RAM": "1.5GB",
+    "Display Type": "Super AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "ZTE",
+    "Model": "Watch Live",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Vivoactive 3 Element",
+    "Water Resistant": "5 ATM",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Oppo",
+    "Model": "Watch (41mm)",
+    "Water Resistant": "Yes",
+    "RAM": "1GB",
+    "Processor Name": "Qualcomm Snapdragon Wear 3100, Ambiq Micro Apollo3 Wireless",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Gionee",
+    "Model": "Smart 'Life' Watch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Fastrack",
+    "Model": "Reflex 2.0 Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Watch 3 4G (41mm)",
+    "Water Resistant": "Yes",
+    "RAM": "1MB",
+    "Processor Name": "Exynos 9110",
+    "Display Type": "Super AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Marshal Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Display Type": "OLED Retina"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Marshal Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Display Type": "OLED Retina"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Marshal Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Display Type": "OLED Retina"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "GTR 2",
+    "Water Resistant": "5 ATM",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "Verge",
+    "Water Resistant": "Yes",
+    "RAM": "512MB",
+    "Display Type": "AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Watch Active",
+    "Water Resistant": "Yes",
+    "RAM": "768MB",
+    "Processor Name": "Samsung Exynos 9110",
+    "Display Type": "AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Watch Active",
+    "Water Resistant": "Yes",
+    "RAM": "768MB",
+    "Processor Name": "Samsung Exynos 9110",
+    "Display Type": "AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Watch Active",
+    "Water Resistant": "Yes",
+    "RAM": "768MB",
+    "Processor Name": "Samsung Exynos 9110",
+    "Display Type": "AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "Zepp E (Round)",
+    "Water Resistant": "5ATM",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "1"
+  },
+  {
+    "Brand": "Diesel",
+    "Model": "Full Guard 2.5",
+    "Water Resistant": "Yes",
+    "RAM": "512MB",
+    "Number of Buttons": "3"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Explorist Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "4 GB",
+    "Processor Name": "Snapdragon Wear 2100",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Explorist Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "4 GB",
+    "Processor Name": "Snapdragon Wear 2100",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Explorist Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "4 GB",
+    "Processor Name": "Snapdragon Wear 2100",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Explorist Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "4 GB",
+    "Processor Name": "Snapdragon Wear 2100",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Marq Expedition",
+    "Water Resistant": "Yes",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 3 GPS Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S3 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 3 GPS Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S3 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 3 GPS Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S3 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 3 GPS Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S3 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 3 GPS Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S3 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 3 GPS Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S3 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 3 GPS Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S3 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Gear Fit2 Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Display Type": "Super AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Gear Fit2 Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Display Type": "Super AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Gear Fit2 Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Display Type": "Super AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Founder Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Qualcomm Snapdragon Wear 2100",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "3",
+    "GPS": "No"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Founder Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Qualcomm Snapdragon Wear 2100",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "3",
+    "GPS": "No"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Founder Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Qualcomm Snapdragon Wear 2100",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "3",
+    "GPS": "No"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Founder Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Qualcomm Snapdragon Wear 2100",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "3",
+    "GPS": "No"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Founder Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Qualcomm Snapdragon Wear 2100",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "3",
+    "GPS": "No"
+  },
+  {
+    "Brand": "Gionee",
+    "Model": "Watch 4",
+    "Water Resistant": "IP68"
+  },
+  {
+    "Brand": "Infinix",
+    "Model": "Band 5",
+    "Water Resistant": "Yes",
+    "Display Type": "LCD"
+  },
+  {
+    "Brand": "Infinix",
+    "Model": "Band 5",
+    "Water Resistant": "Yes",
+    "Display Type": "LCD"
+  },
+  {
+    "Brand": "Infinix",
+    "Model": "Band 5",
+    "Water Resistant": "Yes",
+    "Display Type": "LCD"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Fit e Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Fit e Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Fit e Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Modern Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Modern Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Redmi",
+    "Model": "Watch",
+    "Water Resistant": "5ATM",
+    "Number of Buttons": "1"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Control Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Display Type": "Super AMOLED"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Control Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Display Type": "Super AMOLED"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Gen 5E (44mm)",
+    "Water Resistant": "3 ATM",
+    "RAM": "1GB",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Sport",
+    "Water Resistant": "Yes",
+    "Processor Name": "Snapdragon Wear 3100",
+    "Display Type": "AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Honor",
+    "Model": "Watch GS Pro",
+    "Water Resistant": "Yes",
+    "Processor Name": "Huawei HiSilicon Kirin A1",
+    "Display Type": "AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Honor",
+    "Model": "Band 5i",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Honor",
+    "Model": "Band 5i",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Honor",
+    "Model": "Band 5i",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Honor",
+    "Model": "Band 5i",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "Verge Lite",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "Verge Lite",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "Pace Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "1.2 GHz Core",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "Pace Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "1.2 GHz Core",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "Bip Smartwatch",
+    "Water Resistant": "Yes",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "Bip Smartwatch",
+    "Water Resistant": "Yes",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "Bip Smartwatch",
+    "Water Resistant": "Yes",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Fit 2",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Inspire HR Fitness Tracker Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "LED"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Inspire HR Fitness Tracker Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "LED"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Inspire HR Fitness Tracker Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "LED"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Watch 3 (41mm)",
+    "Water Resistant": "Yes",
+    "RAM": "1MB",
+    "Processor Name": "Exynos 9110",
+    "Display Type": "Super AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Watch 3 (41mm)",
+    "Water Resistant": "Yes",
+    "RAM": "1MB",
+    "Processor Name": "Exynos 9110",
+    "Display Type": "Super AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Fenix 6X Pro Solar",
+    "Water Resistant": "Yes",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Charge 2 Smart Band",
+    "Water Resistant": "No",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Charge 2 Smart Band",
+    "Water Resistant": "No",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Charge 2 Smart Band",
+    "Water Resistant": "No",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Charge 2 Smart Band",
+    "Water Resistant": "No",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Charge 2 Smart Band",
+    "Water Resistant": "No",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch SE GPS + Cellular",
+    "Water Resistant": "Yes",
+    "Processor Name": "S5 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch SE GPS + Cellular",
+    "Water Resistant": "Yes",
+    "Processor Name": "S5 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch SE GPS + Cellular",
+    "Water Resistant": "Yes",
+    "Processor Name": "S5 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch SE GPS + Cellular",
+    "Water Resistant": "Yes",
+    "Processor Name": "S5 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Marq Captain",
+    "Water Resistant": "Yes",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Mi",
+    "Model": "Smart Band 4C",
+    "Water Resistant": "Yes",
+    "Display Type": "LCD"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Alta Fitness Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Alta Fitness Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Alta Fitness Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Alta Fitness Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Alta Fitness Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "TIMEX",
+    "Model": "iConnect Premium Active",
+    "Water Resistant": "IP68"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Gear S Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Exynos 3250",
+    "Display Type": "Super AMOLED"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Scarlette Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Grant Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Grant Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Grant Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Grant Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Realme",
+    "Model": "Watch S Pro",
+    "Water Resistant": "5ATM",
+    "Processor Name": "ARM Cortex M4",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "GTR 2e",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "GTS 2",
+    "Water Resistant": "5 ATM",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "1"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Gen 5E (42mm)",
+    "Water Resistant": "5 ATM",
+    "RAM": "1GB",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Jacqueline Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Jacqueline Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Hybrid Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Motorola",
+    "Model": "Moto 360 Sport Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Qualcomm Snapdragon 400 APQ8026"
+  },
+  {
+    "Brand": "Motorola",
+    "Model": "Moto 360 Sport Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Qualcomm Snapdragon 400 APQ8026"
+  },
+  {
+    "Brand": "Motorola",
+    "Model": "Moto 360 Sport Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Qualcomm Snapdragon 400 APQ8026"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 1 Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S1P",
+    "Display Type": "OLED Retina",
+    "GPS": "No"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 1 Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S1P",
+    "Display Type": "OLED Retina",
+    "GPS": "No"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 1 Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S1P",
+    "Display Type": "OLED Retina",
+    "GPS": "No"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 1 Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S1P",
+    "Display Type": "OLED Retina",
+    "GPS": "No"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 1 Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S1P",
+    "Display Type": "OLED Retina",
+    "GPS": "No"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 1 Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S1P",
+    "Display Type": "OLED Retina",
+    "GPS": "No"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 1 Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S1P",
+    "Display Type": "OLED Retina",
+    "GPS": "No"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 1 Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S1P",
+    "Display Type": "OLED Retina",
+    "GPS": "No"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Venu Sq",
+    "Water Resistant": "Yes",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Gionee",
+    "Model": "Watch 5",
+    "Water Resistant": "IP68"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Hybird Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Watch GT 2e",
+    "Water Resistant": "5ATM",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Huami",
+    "Model": "Amazfit Neo",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Nike+ Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S2 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Nike+ Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S2 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Nike+ Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S2 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Nike+ Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S2 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Nike+ Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S2 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Nike+ Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S2 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Nike+ Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S2 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Gazer Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Gazer Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 6 GPS + Cellular",
+    "Water Resistant": "Yes",
+    "Processor Name": "S6 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 6 GPS + Cellular",
+    "Water Resistant": "Yes",
+    "Processor Name": "S6 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 6 GPS + Cellular",
+    "Water Resistant": "Yes",
+    "Processor Name": "S6 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 6 GPS + Cellular",
+    "Water Resistant": "Yes",
+    "Processor Name": "S6 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 6 GPS + Cellular",
+    "Water Resistant": "Yes",
+    "Processor Name": "S6 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 6 GPS + Cellular",
+    "Water Resistant": "Yes",
+    "Processor Name": "S6 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 6 GPS + Cellular",
+    "Water Resistant": "Yes",
+    "Processor Name": "S6 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 6 GPS + Cellular",
+    "Water Resistant": "Yes",
+    "Processor Name": "S6 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 6 GPS + Cellular",
+    "Water Resistant": "Yes",
+    "Processor Name": "S6 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 6 GPS + Cellular",
+    "Water Resistant": "Yes",
+    "Processor Name": "S6 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Fenix 6",
+    "Water Resistant": "Yes",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Lcare",
+    "Model": "Band 2S",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "boAt",
+    "Model": "Watch Enigma",
+    "Water Resistant": "3ATM",
+    "Number of Buttons": "1"
+  },
+  {
+    "Brand": "Honor",
+    "Model": "Band 4 Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Honor",
+    "Model": "Band 4 Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Honor",
+    "Model": "Band 4 Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "GTS 2e",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "1"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Activist Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Activist Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Activist Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "GTS 2 mini",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "1"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 4 GPS Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S4 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 4 GPS Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S4 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 4 GPS Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S4 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 4 GPS Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S4 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 4 GPS Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S4 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 4 GPS Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S4 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 4 GPS Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S4 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 4 GPS Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S4 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "Bip S",
+    "Water Resistant": "Yes",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Watch GT",
+    "RAM": "16MB",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Tailor Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Huami",
+    "Model": "Amazfit Stratos 3",
+    "Water Resistant": "5ATM",
+    "RAM": "512MB",
+    "Number of Buttons": "4",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Realme",
+    "Model": "Band",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Realme",
+    "Model": "Band",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Realme",
+    "Model": "Band",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Vivoactive 4",
+    "Water Resistant": "5 ATM",
+    "Display Type": "MIP",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Inspire Fitness Tracker Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Inspire Fitness Tracker Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Huami",
+    "Model": "Amazfit Band 5",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 6 GPS",
+    "Water Resistant": "Yes",
+    "Processor Name": "S6 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 6 GPS",
+    "Water Resistant": "Yes",
+    "Processor Name": "S6 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 6 GPS",
+    "Water Resistant": "Yes",
+    "Processor Name": "S6 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 6 GPS",
+    "Water Resistant": "Yes",
+    "Processor Name": "S6 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 6 GPS",
+    "Water Resistant": "Yes",
+    "Processor Name": "S6 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Carme (HW25P)"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Charge 3 Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Motorola",
+    "Model": "Moto 360 Gen 2 Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Qualcomm Snapdragon 400 APQ8026"
+  },
+  {
+    "Brand": "Motorola",
+    "Model": "Moto 360 Gen 2 Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Qualcomm Snapdragon 400 APQ8026"
+  },
+  {
+    "Brand": "Motorola",
+    "Model": "Moto 360 Gen 2 Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Qualcomm Snapdragon 400 APQ8026"
+  },
+  {
+    "Brand": "Motorola",
+    "Model": "Moto 360 Gen 2 Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Qualcomm Snapdragon 400 APQ8026"
+  },
+  {
+    "Brand": "Motorola",
+    "Model": "Moto 360 Gen 2 Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Qualcomm Snapdragon 400 APQ8026"
+  },
+  {
+    "Brand": "Motorola",
+    "Model": "Moto 360 Gen 2 Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Qualcomm Snapdragon 400 APQ8026"
+  },
+  {
+    "Brand": "Motorola",
+    "Model": "Moto 360 Gen 2 Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Qualcomm Snapdragon 400 APQ8026"
+  },
+  {
+    "Brand": "Motorola",
+    "Model": "Moto 360 Gen 2 Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Qualcomm Snapdragon 400 APQ8026"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Watch Active 2 4G (44mm)",
+    "Water Resistant": "IP68",
+    "RAM": "768MB",
+    "Processor Name": "Exynos 9110",
+    "Display Type": "Super AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Watch Active 2 4G (44mm)",
+    "Water Resistant": "IP68",
+    "RAM": "768MB",
+    "Processor Name": "Exynos 9110",
+    "Display Type": "Super AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Watch Active 2 4G (44mm)",
+    "Water Resistant": "IP68",
+    "RAM": "768MB",
+    "Processor Name": "Exynos 9110",
+    "Display Type": "Super AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Venture Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "4 GB",
+    "Processor Name": "Snapdragon Wear 2100",
+    "Display Type": "Super AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Venture Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "4 GB",
+    "Processor Name": "Snapdragon Wear 2100",
+    "Display Type": "Super AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Venture Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "4 GB",
+    "Processor Name": "Snapdragon Wear 2100",
+    "Display Type": "Super AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Venture Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "4 GB",
+    "Processor Name": "Snapdragon Wear 2100",
+    "Display Type": "Super AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Venture Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "4 GB",
+    "Processor Name": "Snapdragon Wear 2100",
+    "Display Type": "Super AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Venture Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "4 GB",
+    "Processor Name": "Snapdragon Wear 2100",
+    "Display Type": "Super AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Band 4 Pro",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Lcare",
+    "Model": "Watch"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch SE GPS",
+    "Water Resistant": "Yes",
+    "Processor Name": "S5 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch SE GPS",
+    "Water Resistant": "Yes",
+    "Processor Name": "S5 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch SE GPS",
+    "Water Resistant": "Yes",
+    "Processor Name": "S5 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Ego",
+    "Water Resistant": "Yes",
+    "Number of Buttons": "Two",
+    "GPS": "No"
+  },
+  {
+    "Brand": "Mi",
+    "Model": "Watch Lite",
+    "Water Resistant": "5ATM",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Gear Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "8 GB",
+    "Number of Buttons": "1"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Gear Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "8 GB",
+    "Number of Buttons": "1"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Gear Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "8 GB",
+    "Number of Buttons": "1"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Gear Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "8 GB",
+    "Number of Buttons": "1"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Machine Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Machine Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Xiaomi",
+    "Model": "Mi Watch Color",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Oppo",
+    "Model": "Watch ECG Edition",
+    "Water Resistant": "Yes",
+    "RAM": "1GB",
+    "Processor Name": "Qualcomm Snapdragon Wear 2500 + Apollo 3 co-processor",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "GTR 42mm",
+    "Water Resistant": "5ATM",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "GTR 42mm",
+    "Water Resistant": "5ATM",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "GTR 42mm",
+    "Water Resistant": "5ATM",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "GTR 42mm",
+    "Water Resistant": "5ATM",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Gear S3 Frontier Smartwatch",
+    "Water Resistant": "No",
+    "Display Type": "Super AMOLED"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "Exynos 9110 Dual Core Processor",
+    "Display Type": "Super AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "Exynos 9110 Dual Core Processor",
+    "Display Type": "Super AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "Exynos 9110 Dual Core Processor",
+    "Display Type": "Super AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "Exynos 9110 Dual Core Processor",
+    "Display Type": "Super AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Commuter Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Commuter Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Commuter Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Commuter Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Watch GT Active Edition",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Watch GT Active Edition",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Motorola",
+    "Model": "Moto 360 Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Qualcomm Snapdragon 400 APQ8026"
+  },
+  {
+    "Brand": "Motorola",
+    "Model": "Moto 360 Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Qualcomm Snapdragon 400 APQ8026"
+  },
+  {
+    "Brand": "Motorola",
+    "Model": "Moto 360 Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Qualcomm Snapdragon 400 APQ8026"
+  },
+  {
+    "Brand": "Mi",
+    "Model": "Smart Band 3i",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Watch GT 2 Pro",
+    "Water Resistant": "5ATM",
+    "Processor Name": "Kirin A1 + STL4R9",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Nike+ GPS + Cellular Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S3 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Ticwatch",
+    "Model": "GTX",
+    "Water Resistant": "IP68",
+    "RAM": "160KB",
+    "Processor Name": "RLC8762C",
+    "Number of Buttons": "2",
+    "GPS": "No"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Fit Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Fit Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "GOQii",
+    "Model": "Vital Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 2 Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S2 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 2 Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S2 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 2 Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S2 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 2 Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S2 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 2 Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S2 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 2 Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S2 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 2 Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S2 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 2 Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S2 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 2 Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S2 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 2 Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S2 Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Watch GT 2 (46mm)",
+    "Water Resistant": "5ATM",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Watch GT 2 (46mm)",
+    "Water Resistant": "5ATM",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Watch GT 2 (46mm)",
+    "Water Resistant": "5ATM",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Watch GT 2 (46mm)",
+    "Water Resistant": "5ATM",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 5 GPS + Cellular",
+    "Water Resistant": "Yes",
+    "Processor Name": "S5 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 5 GPS + Cellular",
+    "Water Resistant": "Yes",
+    "Processor Name": "S5 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Honor",
+    "Model": "Band 5",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Honor",
+    "Model": "Band 5",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Honor",
+    "Model": "Band 5",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Honor",
+    "Model": "Band 5",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Fastrack",
+    "Model": "Reflex Smartwatch",
+    "RAM": "No",
+    "Display Type": "AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Mi",
+    "Model": "Band 5",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Diesel",
+    "Model": "On Fadelite",
+    "Water Resistant": "Yes",
+    "Processor Name": "Qualcomm Snapdragon Wear 3100",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Vivo",
+    "Model": "Watch (42mm)",
+    "Water Resistant": "5 ATM",
+    "RAM": "2GB",
+    "Processor Name": "ST miniature main control chip + Apollo ultra-low power coprocessor",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Realme",
+    "Model": "Watch S",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Xiaomi",
+    "Model": "Mi Watch Revolve",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Xiaomi",
+    "Model": "Mi Watch Revolve",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Gear Fit Smartwatch",
+    "Water Resistant": "Yes",
+    "Display Type": "Super AMOLED"
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Cardio 2 Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Wander Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Display Type": "OLED Retina"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Wander Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Display Type": "OLED Retina"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Wander Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Display Type": "OLED Retina"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Instinct Solar",
+    "Water Resistant": "10 ATM",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Mi",
+    "Model": "Smart Band 5",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Xiaomi",
+    "Model": "Redmi Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "LCD"
+  },
+  {
+    "Brand": "Fastrack",
+    "Model": "Reflex Beat Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Accomplice Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Accomplice Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Accomplice Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Accomplice Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Misfit",
+    "Model": "Vapor X",
+    "RAM": "512MB",
+    "Processor Name": "Snapdragon 3100",
+    "Display Type": "AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Versa Lite Edition",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED",
+    "Number of Buttons": "1"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Versa Lite Edition",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED",
+    "Number of Buttons": "1"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Versa Lite Edition",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED",
+    "Number of Buttons": "1"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Versa Lite Edition",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED",
+    "Number of Buttons": "1"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Versa Lite Edition",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED",
+    "Number of Buttons": "1"
+  },
+  {
+    "Brand": "Noise",
+    "Model": "Colorfit Nav",
+    "Water Resistant": "IP68",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Noise",
+    "Model": "Colorfit Nav",
+    "Water Resistant": "IP68",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Mevofit",
+    "Model": "Slim + HR Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Mevofit",
+    "Model": "Slim + HR Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Mevofit",
+    "Model": "Slim + HR Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "HW02 Plus Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "HW02 Plus Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "HW02 Plus Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Gear S3 Classic Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "0.75 GB",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Gear S3 Classic Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "0.75 GB",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "Bip U",
+    "Water Resistant": "5 ATM",
+    "Number of Buttons": "1"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Watch 3 (45mm)",
+    "Water Resistant": "5ATM + IP68",
+    "RAM": "1GB",
+    "Processor Name": "Exynos 9110",
+    "Display Type": "Super AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Spectra HX03F Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "LCD"
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Spectra HX03F Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "LCD"
+  },
+  {
+    "Brand": "Gionee",
+    "Model": "Senorita",
+    "Water Resistant": "IP68"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Hybrid HR",
+    "Water Resistant": "3ATM",
+    "Number of Buttons": "3"
+  },
+  {
+    "Brand": "Motorola",
+    "Model": "Moto Y1 Smartwatch",
+    "Water Resistant": "No",
+    "Display Type": "Ultra HD",
+    "GPS": "No"
+  },
+  {
+    "Brand": "boAt",
+    "Model": "ProGear B20",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Ticwatch",
+    "Model": "Pro 3 GPS",
+    "Water Resistant": "IP68",
+    "RAM": "1GB",
+    "Processor Name": "Qualcomm Snapdragon Wear 4100",
+    "Display Type": "Retina",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Xiaomi",
+    "Model": "Mi Watch",
+    "Water Resistant": "Yes",
+    "RAM": "1GB",
+    "Processor Name": "Qualcomm Snapdragon Wear 3100",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Gear Sport Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "0.75 GB",
+    "Display Type": "Super AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Gear Sport Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "0.75 GB",
+    "Display Type": "Super AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Watch Active 2 (44mm)",
+    "Water Resistant": "IP68",
+    "RAM": "768MB",
+    "Processor Name": "Exynos 9110",
+    "Display Type": "Super AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Watch Active 2 (44mm)",
+    "Water Resistant": "IP68",
+    "RAM": "768MB",
+    "Processor Name": "Exynos 9110",
+    "Display Type": "Super AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Watch Active 2 (44mm)",
+    "Water Resistant": "IP68",
+    "RAM": "768MB",
+    "Processor Name": "Exynos 9110",
+    "Display Type": "Super AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Watch Active 2 (44mm)",
+    "Water Resistant": "IP68",
+    "RAM": "768MB",
+    "Processor Name": "Exynos 9110",
+    "Display Type": "Super AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Watch Active 2 (44mm)",
+    "Water Resistant": "IP68",
+    "RAM": "768MB",
+    "Processor Name": "Exynos 9110",
+    "Display Type": "Super AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Ticwatch",
+    "Model": "Pro 3 Cellular/ LTE",
+    "Water Resistant": "IP68",
+    "RAM": "1GB",
+    "Processor Name": "Qualcomm Snapdragon Wear 4100",
+    "Display Type": "Retina",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Oppo",
+    "Model": "Watch (46mm)",
+    "Water Resistant": "Yes",
+    "RAM": "1GB",
+    "Processor Name": "Qualcomm Snapdragon Wear 3100, Ambiq Micro Apollo3 Wireless",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Oppo",
+    "Model": "Watch (46mm)",
+    "Water Resistant": "Yes",
+    "RAM": "1GB",
+    "Processor Name": "Qualcomm Snapdragon Wear 3100, Ambiq Micro Apollo3 Wireless",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Venu Sq Music Edition",
+    "Water Resistant": "Yes",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Marq Athlete",
+    "Water Resistant": "Yes",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Noise",
+    "Model": "ColorFit Fitness Band",
+    "Water Resistant": "Yes",
+    "Display Type": "LCD"
+  },
+  {
+    "Brand": "Sony",
+    "Model": "Talk SWR30 Smart Band",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Gear S2 Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Exynos 3250",
+    "Display Type": "Super AMOLED"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Gear S2 Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Exynos 3250",
+    "Display Type": "Super AMOLED"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Gear S2 Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Exynos 3250",
+    "Display Type": "Super AMOLED"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Gear S2 Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Exynos 3250",
+    "Display Type": "Super AMOLED"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Gear S2 Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Exynos 3250",
+    "Display Type": "Super AMOLED"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 4 GPS + Cellular Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S4 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 4 GPS + Cellular Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S4 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 4 GPS + Cellular Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S4 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 4 GPS + Cellular Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S4 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 4 GPS + Cellular Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S4 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 4 GPS + Cellular Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S4 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 4 GPS + Cellular Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S4 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 4 GPS + Cellular Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S4 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Watch Series 4 GPS + Cellular Smartwatch",
+    "Water Resistant": "Yes",
+    "Processor Name": "S4 with 64-bit Dual Core Processor",
+    "Display Type": "OLED Retina",
+    "Number of Buttons": "1",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Mi",
+    "Model": "Band 3",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "GTR 42mm Glitter Edition",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "2",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "TIMEX",
+    "Model": "Helix Gusto HRM",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "TIMEX",
+    "Model": "Helix Gusto HRM",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "TIMEX",
+    "Model": "Helix Gusto HRM",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Honor",
+    "Model": "Band 4 Running Edition",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Honor",
+    "Model": "Band 4 Running Edition",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Forerunner 745",
+    "Water Resistant": "5 ATM",
+    "Display Type": "MIP",
+    "Number of Buttons": "2"
+  },
+  {
+    "Brand": "Honor",
+    "Model": "Watch Magic",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Honor",
+    "Model": "Watch Magic",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Nate Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Nate Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Nate Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Nate Smartwatch",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Vivosmart 3 Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Vivomove HR",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Vivomove HR",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Vivomove HR",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Vivomove HR",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Vivomove HR",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Mi",
+    "Model": "Band 4C",
+    "Water Resistant": "Yes"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "T-Rex",
+    "Water Resistant": "Yes",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Versa 2",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Honor",
+    "Model": "Band 3 Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Honor",
+    "Model": "Band 3 Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Honor",
+    "Model": "Band 3 Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "AMOLED"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Virginia Smartwatch",
+    "Water Resistant": "Yes",
+    "Number of Buttons": "3"
+  },
+  {
+    "Brand": "Fossil",
+    "Model": "Q Pilot Smartwatch",
+    "Water Resistant": "No"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Gear S2 Classic Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Exynos 3250",
+    "Display Type": "Super AMOLED"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Gear S2 Classic Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Exynos 3250",
+    "Display Type": "Super AMOLED"
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Gear S2 Classic Smartwatch",
+    "Water Resistant": "Yes",
+    "RAM": "512 MB",
+    "Processor Name": "Exynos 3250",
+    "Display Type": "Super AMOLED"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Marq Aviator",
+    "Water Resistant": "Yes",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "Zepp E (Square)",
+    "Water Resistant": "5ATM",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "1"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "GTR 47mm",
+    "Water Resistant": "5ATM",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "GOQii",
+    "Model": "Vital 3.0",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Amazfit",
+    "Model": "GTS",
+    "Water Resistant": "5 ATM",
+    "Display Type": "AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Venu",
+    "Water Resistant": "5 ATM",
+    "Display Type": "AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Venu",
+    "Water Resistant": "5 ATM",
+    "Display Type": "AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Venu",
+    "Water Resistant": "5 ATM",
+    "Display Type": "AMOLED",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Alta HR Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "LED"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Alta HR Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "LED"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Alta HR Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "LED"
+  },
+  {
+    "Brand": "Fitbit",
+    "Model": "Alta HR Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "LED"
+  },
+  {
+    "Brand": "Citizen",
+    "Model": "CZ Smart",
+    "Water Resistant": "3ATM",
+    "Display Type": "AMOLED",
+    "Number of Buttons": "3",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "Garmin",
+    "Model": "Fenix 6X",
+    "Water Resistant": "Yes",
+    "GPS": "Yes"
+  },
+  {
+    "Brand": "GOQii",
+    "Model": "Vital ECG Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "Huawei",
+    "Model": "Band 4",
+    "Water Resistant": "Yes",
+    "Display Type": "LCD"
+  },
+  {
+    "Brand": "iVoomi",
+    "Model": "FitMe Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  },
+  {
+    "Brand": "iVoomi",
+    "Model": "FitMe Smart Band",
+    "Water Resistant": "Yes",
+    "Display Type": "OLED"
+  }
+]
